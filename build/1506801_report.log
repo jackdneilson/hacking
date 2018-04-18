@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.11.16)  21 MAR 2018 16:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.11.16)  18 APR 2018 13:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2017/01/01> patch level 3
 Babel <3.9r> and hyphenation patterns for 5 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -53,6 +53,13 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 )
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count90
+)
 (/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
 Package: todonotes 2012/07/25
@@ -68,7 +75,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks16
 \XKV@tempa@toks=\toks17
 )
-\XKV@depth=\count90
+\XKV@depth=\count91
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -88,7 +95,7 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count91
+\Gread@gobject=\count92
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -159,10 +166,10 @@ ex
 \pgf@yc=\dimen122
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count92
-\c@pgf@countb=\count93
-\c@pgf@countc=\count94
-\c@pgf@countd=\count95
+\c@pgf@counta=\count93
+\c@pgf@countb=\count94
+\c@pgf@countc=\count95
+\c@pgf@countd=\count96
 \t@pgf@toka=\toks22
 \t@pgf@tokb=\toks23
 \t@pgf@tokc=\toks24
@@ -181,8 +188,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count96
-\pgfsyssoftpath@bigbuffer@items=\count97
+\pgfsyssoftpath@smallbuffer@items=\count97
+\pgfsyssoftpath@bigbuffer@items=\count98
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -196,7 +203,7 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen123
-\pgfmath@count=\count98
+\pgfmath@count=\count99
 \pgfmath@box=\box27
 \pgfmath@toks=\toks25
 \pgfmath@stack@operand=\toks26
@@ -220,7 +227,7 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count99
+\c@pgfmathroundto@lastzeros=\count100
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
@@ -258,7 +265,7 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box28
 \pgf@hbox=\box29
 \pgf@layerbox@main=\box30
-\pgf@picture@serial@count=\count100
+\pgf@picture@serial@count=\count101
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
@@ -291,7 +298,7 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen147
-\pgf@sys@shading@range@num=\count101
+\pgf@sys@shading@range@num=\count102
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
@@ -348,7 +355,7 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count102
+\pgf@plot@mark@count=\count103
 \pgfplotmarksize=\dimen152
 )
 \tikz@lastx=\dimen153
@@ -361,18 +368,18 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box34
 \tikz@tempbox=\box35
 \tikz@tempbox@bg=\box36
-\tikztreelevel=\count103
-\tikznumberofchildren=\count104
-\tikznumberofcurrentchild=\count105
-\tikz@fig@count=\count106
+\tikztreelevel=\count104
+\tikznumberofchildren=\count105
+\tikznumberofcurrentchild=\count106
+\tikz@fig@count=\count107
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count107
-\pgfmatrixcurrentcolumn=\count108
-\pgf@matrix@numberofcolumns=\count109
+\pgfmatrixcurrentrow=\count108
+\pgfmatrixcurrentcolumn=\count109
+\pgf@matrix@numberofcolumns=\count110
 )
-\tikz@expandcount=\count110
+\tikz@expandcount=\count111
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -384,24 +391,24 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count111
-\calc@Bcount=\count112
+\calc@Acount=\count112
+\calc@Bcount=\count113
 \calc@Adimen=\dimen159
 \calc@Bdimen=\dimen160
-\calc@Askip=\skip43
-\calc@Bskip=\skip44
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count113
-\calc@Cskip=\skip45
+\calc@Ccount=\count114
+\calc@Cskip=\skip47
 )
-\c@@todonotes@numberoftodonotes=\count114
+\c@@todonotes@numberoftodonotes=\count115
 )
 (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count115
-\c@@ppsavesec=\count116
-\c@@ppsaveapp=\count117
+\c@@pps=\count116
+\c@@ppsavesec=\count117
+\c@@ppsaveapp=\count118
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2017/01/14 v0.5h Insert pages of external PDF documents (AM)
@@ -421,7 +428,7 @@ File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
 \AM@pagebox=\box37
 \AM@global@opts=\toks30
 \AM@toc@title=\toks31
-\c@AM@survey=\count118
+\c@AM@survey=\count119
 \AM@templatesizebox=\box38
 )
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
@@ -429,23 +436,23 @@ File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count119
+\lst@mode=\count120
 \lst@gtempboxa=\box39
 \lst@token=\toks32
-\lst@length=\count120
+\lst@length=\count121
 \lst@currlwidth=\dimen163
-\lst@column=\count121
-\lst@pos=\count122
+\lst@column=\count122
+\lst@pos=\count123
 \lst@lostspace=\dimen164
 \lst@width=\dimen165
-\lst@newlines=\count123
-\lst@lineno=\count124
+\lst@newlines=\count124
+\lst@lineno=\count125
 \lst@maxwidth=\dimen166
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count125
-\lst@skipnumbers=\count126
+\c@lstnumber=\count126
+\lst@skipnumbers=\count127
 \lst@framebox=\box40
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
@@ -459,18 +466,18 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 (build/1506801_report.aux)
 \openout1 = `1506801_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -491,12 +498,12 @@ LaTeX Font Info:    ... okay on input line 32.
 * \topmargin=-23.91173pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -508,16 +515,16 @@ LaTeX Font Info:    ... okay on input line 32.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count127
+\scratchcounter=\count128
 \scratchdimen=\dimen167
 \scratchbox=\box41
-\nofMPsegments=\count128
-\nofMParguments=\count129
+\nofMPsegments=\count129
+\nofMParguments=\count130
 \everyMPshowfont=\toks33
-\MPscratchCnt=\count130
+\MPscratchCnt=\count131
 \MPscratchDim=\dimen168
-\MPnumerator=\count131
-\makeMPintoPDFobject=\count132
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
 \everyMPtoPDFconversion=\toks34
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
@@ -576,35 +583,35 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-\c@lstlisting=\count133
+\c@lstlisting=\count134
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 35.
+(Font)              <12> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 35.
+(Font)              <8> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 35.
+(Font)              <6> on input line 38.
 
 <1506801_cover_letter.pdf, id=4, 597.23125pt x 845.1575pt>
 File: 1506801_cover_letter.pdf Graphic file (type pdf)
 
 <use 1506801_cover_letter.pdf>
-Package pdftex.def Info: 1506801_cover_letter.pdf used on input line 36.
+Package pdftex.def Info: 1506801_cover_letter.pdf used on input line 39.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: 1506801_cover_letter.pdf Graphic file (type pdf)
  <use 1506801_cover_letter.pdf>
-Package pdftex.def Info: 1506801_cover_letter.pdf used on input line 36.
+Package pdftex.def Info: 1506801_cover_letter.pdf used on input line 39.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
 <1506801_cover_letter.pdf, id=7, page=1, 597.23125pt x 845.1575pt>
 File: 1506801_cover_letter.pdf Graphic file (type pdf)
 
 <use 1506801_cover_letter.pdf, page 1>
-Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 36.
+Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 39.
 
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: 1506801_cover_letter.pdf Graphic file (type pdf)
  <use 1506801_cover_letter.pdf, page 1>
-Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 36.
+Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 39.
 
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 
@@ -614,49 +621,82 @@ Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 36.
 File: 1506801_cover_letter.pdf Graphic file (type pdf)
 
 <use 1506801_cover_letter.pdf, page 1>
-Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 36.
+Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 39.
 
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: 1506801_cover_letter.pdf Graphic file (type pdf)
  <use 1506801_cover_letter.pdf, page 1>
-Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 36.
+Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 39.
 
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: 1506801_cover_letter.pdf Graphic file (type pdf)
 
 <use 1506801_cover_letter.pdf, page 1>
-Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 36.
+Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 39.
 
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [2 <./1506801_cover_letter.pdf>]
 (build/1506801_report.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 2.
+(Font)              <10.95> on input line 2.
 )
 \tf@toc=\write4
 \openout4 = `1506801_report.toc'.
 
- [3] [4] (build/1506801_report.aux) ) 
+ [3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
+
+<res/keystream.png, id=51, 683.55376pt x 101.37875pt>
+File: res/keystream.png Graphic file (type png)
+ <use res/keystream.png>
+Package pdftex.def Info: res/keystream.png used on input line 59.
+(pdftex.def)             Requested size: 443.57848pt x 65.78865pt.
+
+<res/crc.png, id=53, 645.41125pt x 102.3825pt>
+File: res/crc.png Graphic file (type png)
+ <use res/crc.png>
+Package pdftex.def Info: res/crc.png used on input line 65.
+(pdftex.def)             Requested size: 443.57848pt x 70.36435pt.
+ [4 <./res/keystream.png> <./res/crc.png>]
+<res/encryption.png, id=60, 646.415pt x 302.12875pt>
+File: res/encryption.png Graphic file (type png)
+ <use res/encryption.png>
+Package pdftex.def Info: res/encryption.png used on input line 71.
+(pdftex.def)             Requested size: 443.57848pt x 207.32574pt.
+
+<res/header.png, id=61, 323.2075pt x 101.37875pt>
+File: res/header.png Graphic file (type png)
+ <use res/header.png>
+Package pdftex.def Info: res/header.png used on input line 77.
+(pdftex.def)             Requested size: 323.20671pt x 101.3785pt.
+
+(build/1506801_report.bbl [5 <./res/encryption.png> <./res/header.png>])
+[6] (build/1506801_report.aux) ) 
 Here is how much of TeX's memory you used:
- 14502 strings out of 494902
- 282096 string characters out of 6179890
- 340023 words of memory out of 5000000
- 17520 multiletter control sequences out of 15000+600000
- 8501 words of font info for 30 fonts, out of 8000000 for 9000
+ 14882 strings out of 494902
+ 286866 string characters out of 6179890
+ 346846 words of memory out of 5000000
+ 17883 multiletter control sequences out of 15000+600000
+ 9157 words of font info for 32 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 62i,18n,72p,455b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.
-pfb>
-Output written on build/1506801_report.pdf (4 pages, 103571 bytes).
+ 62i,18n,72p,600b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on build/1506801_report.pdf (6 pages, 151126 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 94 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
