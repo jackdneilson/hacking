@@ -1,5 +1,15 @@
 \begin{thebibliography}{xx}
 
+\harvarditem{{\em CISSP Code of Ethics}}{n.d.}{CISSPethics}
+{\em CISSP Code of Ethics}  \harvardyearleft n.d.\harvardyearright ,
+  https://www.isc2.org/ethics/.
+\newblock Online, accessed 24th April 2018.
+
+\harvarditem{{\em Computer Misuse Act}}{1990}{computermisuseact}
+{\em Computer Misuse Act}  \harvardyearleft 1990\harvardyearright ,
+  http://www.legislation.gov.uk/ukpga/1990/18/.
+\newblock Online, accessed 24th April 2018.
+
 \harvarditem[Tews et~al.]{Tews, Weinmann \harvardand\
   Pyshkin}{2007}{breakingWEP60seconds}
 Tews, E., Weinmann, R.-P. \harvardand\ Pyshkin, A.  \harvardyearleft

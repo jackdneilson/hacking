@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.11.16)  18 APR 2018 13:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.11.16)  24 APR 2018 13:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2017/01/01> patch level 3
 Babel <3.9r> and hyphenation patterns for 5 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -498,12 +498,12 @@ LaTeX Font Info:    ... okay on input line 35.
 * \topmargin=-23.91173pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -585,11 +585,9 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 \c@lstlisting=\count134
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 38.
+(Font)              <14.4> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 38.
+(Font)              <7> on input line 38.
 
 <1506801_cover_letter.pdf, id=4, 597.23125pt x 845.1575pt>
 File: 1506801_cover_letter.pdf Graphic file (type pdf)
@@ -638,7 +636,11 @@ Package pdftex.def Info: 1506801_cover_letter.pdf, page1 used on input line 39.
  [2 <./1506801_cover_letter.pdf>]
 (build/1506801_report.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 2.
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
 )
 \tf@toc=\write4
 \openout4 = `1506801_report.toc'.
@@ -649,54 +651,165 @@ LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
 
-<res/keystream.png, id=51, 683.55376pt x 101.37875pt>
+<res/keystream.png, id=49, 683.55376pt x 101.37875pt>
 File: res/keystream.png Graphic file (type png)
  <use res/keystream.png>
 Package pdftex.def Info: res/keystream.png used on input line 59.
 (pdftex.def)             Requested size: 443.57848pt x 65.78865pt.
 
-<res/crc.png, id=53, 645.41125pt x 102.3825pt>
+<res/crc.png, id=51, 645.41125pt x 102.3825pt>
 File: res/crc.png Graphic file (type png)
  <use res/crc.png>
 Package pdftex.def Info: res/crc.png used on input line 65.
 (pdftex.def)             Requested size: 443.57848pt x 70.36435pt.
  [4 <./res/keystream.png> <./res/crc.png>]
-<res/encryption.png, id=60, 646.415pt x 302.12875pt>
+<res/encryption.png, id=58, 646.415pt x 302.12875pt>
 File: res/encryption.png Graphic file (type png)
  <use res/encryption.png>
 Package pdftex.def Info: res/encryption.png used on input line 71.
 (pdftex.def)             Requested size: 443.57848pt x 207.32574pt.
 
-<res/header.png, id=61, 323.2075pt x 101.37875pt>
+<res/header.png, id=59, 323.2075pt x 101.37875pt>
 File: res/header.png Graphic file (type png)
  <use res/header.png>
 Package pdftex.def Info: res/header.png used on input line 77.
 (pdftex.def)             Requested size: 323.20671pt x 101.3785pt.
+ [5 <./res/encryption.png> <./res/header.png>] [6]
+<res/vpn_example.png, id=68, 743.77875pt x 442.65375pt>
+File: res/vpn_example.png Graphic file (type png)
 
-(build/1506801_report.bbl [5 <./res/encryption.png> <./res/header.png>])
-[6] (build/1506801_report.aux) ) 
+<use res/vpn_example.png>
+Package pdftex.def Info: res/vpn_example.png used on input line 95.
+(pdftex.def)             Requested size: 310.50357pt x 184.79883pt.
+
+<res/vpn_example_hack.png, id=69, 763.85374pt x 442.65375pt>
+File: res/vpn_example_hack.png Graphic file (type png)
+
+<use res/vpn_example_hack.png>
+Package pdftex.def Info: res/vpn_example_hack.png used on input line 101.
+(pdftex.def)             Requested size: 310.50357pt x 179.9357pt.
+ [7 <./res/vpn_example.png> <./res/vpn_example_hack.png>] <res/ipsec.png, id=76
+, 703.62875pt x 161.60374pt>
+File: res/ipsec.png Graphic file (type png)
+ <use res/ipsec.png>
+Package pdftex.def Info: res/ipsec.png used on input line 108.
+(pdftex.def)             Requested size: 351.8135pt x 80.80167pt.
+
+<res/install_ipsec_tools.png, id=77, 729.72626pt x 399.4925pt>
+File: res/install_ipsec_tools.png Graphic file (type png)
+
+<use res/install_ipsec_tools.png>
+Package pdftex.def Info: res/install_ipsec_tools.png used on input line 123.
+(pdftex.def)             Requested size: 364.86224pt x 199.74576pt.
+ [8 <./res/ipsec.png>]
+<res/machine1/static_ip.png, id=82, 521.95pt x 294.09875pt>
+File: res/machine1/static_ip.png Graphic file (type png)
+
+<use res/machine1/static_ip.png>
+Package pdftex.def Info: res/machine1/static_ip.png used on input line 127.
+(pdftex.def)             Requested size: 260.97435pt x 147.04901pt.
+
+<res/machine2/static_ip.png, id=83, 515.9275pt x 291.0875pt>
+File: res/machine2/static_ip.png Graphic file (type png)
+
+<use res/machine2/static_ip.png>
+Package pdftex.def Info: res/machine2/static_ip.png used on input line 132.
+(pdftex.def)             Requested size: 257.96312pt x 145.54338pt.
+ [9 <./res/install_ipsec_tools.png> <./res/machine1/static_ip.png> <./res/machi
+ne2/static_ip.png>]
+<res/machine1/test_connectivity.png, id=90, 569.12625pt x 164.615pt>
+File: res/machine1/test_connectivity.png Graphic file (type png)
+
+<use res/machine1/test_connectivity.png>
+Package pdftex.def Info: res/machine1/test_connectivity.png used on input line 
+137.
+(pdftex.def)             Requested size: 284.56242pt x 82.3073pt.
+
+<res/machine2/test_connectivity.png, id=91, 565.11125pt x 166.6225pt>
+File: res/machine2/test_connectivity.png Graphic file (type png)
+
+<use res/machine2/test_connectivity.png>
+Package pdftex.def Info: res/machine2/test_connectivity.png used on input line 
+139.
+(pdftex.def)             Requested size: 282.55493pt x 83.31104pt.
+
+<res/machine1/ipsec_config.png, id=92, 726.715pt x 292.09125pt>
+File: res/machine1/ipsec_config.png Graphic file (type png)
+
+<use res/machine1/ipsec_config.png>
+Package pdftex.def Info: res/machine1/ipsec_config.png used on input line 143.
+(pdftex.def)             Requested size: 363.3566pt x 146.04526pt.
+ [10 <./res/machine1/test_connectivity.png> <./res/machine2/test_connectivity.p
+ng> <./res/machine1/ipsec_config.png>]
+<res/machine2/ipsec_config.png, id=99, 724.7075pt x 290.08376pt>
+File: res/machine2/ipsec_config.png Graphic file (type png)
+
+<use res/machine2/ipsec_config.png>
+Package pdftex.def Info: res/machine2/ipsec_config.png used on input line 151.
+(pdftex.def)             Requested size: 362.35286pt x 145.04152pt.
+
+<res/machine1/ipsec_running.png, id=100, 676.5275pt x 599.23875pt>
+File: res/machine1/ipsec_running.png Graphic file (type png)
+
+<use res/machine1/ipsec_running.png>
+Package pdftex.def Info: res/machine1/ipsec_running.png used on input line 158.
+
+(pdftex.def)             Requested size: 338.26291pt x 299.61864pt.
+
+<res/machine2/ipsec_running.png, id=101, 675.52374pt x 598.235pt>
+File: res/machine2/ipsec_running.png Graphic file (type png)
+
+<use res/machine2/ipsec_running.png>
+Package pdftex.def Info: res/machine2/ipsec_running.png used on input line 160.
+
+(pdftex.def)             Requested size: 337.76105pt x 299.11676pt.
+ [11 <./res/machine2/ipsec_config.png> <./res/machine1/ipsec_running.png>]
+<res/machine1/tcpdump.png, id=107, 760.8425pt x 111.41624pt>
+File: res/machine1/tcpdump.png Graphic file (type png)
+
+<use res/machine1/tcpdump.png>
+Package pdftex.def Info: res/machine1/tcpdump.png used on input line 164.
+(pdftex.def)             Requested size: 380.42032pt x 55.70798pt.
+
+<res/machine2/tcpdump.png, id=108, 754.82pt x 143.53625pt>
+File: res/machine2/tcpdump.png Graphic file (type png)
+
+<use res/machine2/tcpdump.png>
+Package pdftex.def Info: res/machine2/tcpdump.png used on input line 166.
+(pdftex.def)             Requested size: 377.40909pt x 71.76794pt.
+ [12 <./res/machine2/ipsec_running.png> <./res/machine1/tcpdump.png> <./res/mac
+hine2/tcpdump.png>]
+<res/machine1/firewall.png, id=115, 594.22pt x 112.42pt>
+File: res/machine1/firewall.png Graphic file (type png)
+
+<use res/machine1/firewall.png>
+Package pdftex.def Info: res/machine1/firewall.png used on input line 173.
+(pdftex.def)             Requested size: 297.10927pt x 56.20985pt.
+ [13 <./res/machine1/firewall.png>] [14]
+[15] (build/1506801_report.bbl) [16] (build/1506801_report.aux) ) 
 Here is how much of TeX's memory you used:
- 14882 strings out of 494902
- 286866 string characters out of 6179890
- 346846 words of memory out of 5000000
- 17883 multiletter control sequences out of 15000+600000
- 9157 words of font info for 32 fonts, out of 8000000 for 9000
+ 14960 strings out of 494902
+ 289061 string characters out of 6179890
+ 348846 words of memory out of 5000000
+ 17950 multiletter control sequences out of 15000+600000
+ 9155 words of font info for 32 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 62i,18n,72p,600b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on build/1506801_report.pdf (6 pages, 151126 bytes).
+ 62i,18n,72p,612b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmti12.pfb>
+Output written on build/1506801_report.pdf (16 pages, 580034 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 157 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 128 words of extra memory for PDF output out of 10000 (max. 10000000)
 
